@@ -17,6 +17,7 @@ Mis configuraciones versiones local:
 
 
   ##Paquetes usados
+  
   #herramienta de animación y diseño interactivo en tiempo real.
   
   rive: ^0.11.4
